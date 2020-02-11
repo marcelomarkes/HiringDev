@@ -1,0 +1,14 @@
+D:\Projetos2MSoftware\HiringDev\ApiYoutube\ApiYoutubeTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Projetos2MSoftware\HiringDev\ApiYoutube\ApiYoutubeTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Projetos2MSoftware\HiringDev\ApiYoutube\ApiYoutubeTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Projetos2MSoftware\HiringDev\ApiYoutube\ApiYoutubeTest\bin\Debug\netcoreapp2.2\ApiYoutubeTest.deps.json
+D:\Projetos2MSoftware\HiringDev\ApiYoutube\ApiYoutubeTest\bin\Debug\netcoreapp2.2\ApiYoutubeTest.runtimeconfig.json
+D:\Projetos2MSoftware\HiringDev\ApiYoutube\ApiYoutubeTest\bin\Debug\netcoreapp2.2\ApiYoutubeTest.runtimeconfig.dev.json
+D:\Projetos2MSoftware\HiringDev\ApiYoutube\ApiYoutubeTest\bin\Debug\netcoreapp2.2\ApiYoutubeTest.dll
+D:\Projetos2MSoftware\HiringDev\ApiYoutube\ApiYoutubeTest\bin\Debug\netcoreapp2.2\ApiYoutubeTest.pdb
+D:\Projetos2MSoftware\HiringDev\ApiYoutube\ApiYoutubeTest\obj\Debug\netcoreapp2.2\ApiYoutubeTest.csprojAssemblyReference.cache
+D:\Projetos2MSoftware\HiringDev\ApiYoutube\ApiYoutubeTest\obj\Debug\netcoreapp2.2\ApiYoutubeTest.csproj.CoreCompileInputs.cache
+D:\Projetos2MSoftware\HiringDev\ApiYoutube\ApiYoutubeTest\obj\Debug\netcoreapp2.2\ApiYoutubeTest.AssemblyInfoInputs.cache
+D:\Projetos2MSoftware\HiringDev\ApiYoutube\ApiYoutubeTest\obj\Debug\netcoreapp2.2\ApiYoutubeTest.AssemblyInfo.cs
+D:\Projetos2MSoftware\HiringDev\ApiYoutube\ApiYoutubeTest\obj\Debug\netcoreapp2.2\ApiYoutubeTest.dll
+D:\Projetos2MSoftware\HiringDev\ApiYoutube\ApiYoutubeTest\obj\Debug\netcoreapp2.2\ApiYoutubeTest.pdb

@@ -1,0 +1,14 @@
+D:\Projetos2MSoftware\HiringDev\ApiYoutube\ApiYoutube\bin\Debug\netcoreapp2.2\ApiYoutube.deps.json
+D:\Projetos2MSoftware\HiringDev\ApiYoutube\ApiYoutube\bin\Debug\netcoreapp2.2\ApiYoutube.runtimeconfig.json
+D:\Projetos2MSoftware\HiringDev\ApiYoutube\ApiYoutube\bin\Debug\netcoreapp2.2\ApiYoutube.runtimeconfig.dev.json
+D:\Projetos2MSoftware\HiringDev\ApiYoutube\ApiYoutube\bin\Debug\netcoreapp2.2\ApiYoutube.dll
+D:\Projetos2MSoftware\HiringDev\ApiYoutube\ApiYoutube\obj\Debug\netcoreapp2.2\ApiYoutube.csprojAssemblyReference.cache
+D:\Projetos2MSoftware\HiringDev\ApiYoutube\ApiYoutube\obj\Debug\netcoreapp2.2\ApiYoutube.csproj.CoreCompileInputs.cache
+D:\Projetos2MSoftware\HiringDev\ApiYoutube\ApiYoutube\obj\Debug\netcoreapp2.2\ApiYoutube.RazorAssemblyInfo.cache
+D:\Projetos2MSoftware\HiringDev\ApiYoutube\ApiYoutube\obj\Debug\netcoreapp2.2\ApiYoutube.RazorAssemblyInfo.cs
+D:\Projetos2MSoftware\HiringDev\ApiYoutube\ApiYoutube\obj\Debug\netcoreapp2.2\ApiYoutube.AssemblyInfoInputs.cache
+D:\Projetos2MSoftware\HiringDev\ApiYoutube\ApiYoutube\obj\Debug\netcoreapp2.2\ApiYoutube.AssemblyInfo.cs
+D:\Projetos2MSoftware\HiringDev\ApiYoutube\ApiYoutube\obj\Debug\netcoreapp2.2\ApiYoutube.RazorTargetAssemblyInfo.cache
+D:\Projetos2MSoftware\HiringDev\ApiYoutube\ApiYoutube\bin\Debug\netcoreapp2.2\ApiYoutube.pdb
+D:\Projetos2MSoftware\HiringDev\ApiYoutube\ApiYoutube\obj\Debug\netcoreapp2.2\ApiYoutube.dll
+D:\Projetos2MSoftware\HiringDev\ApiYoutube\ApiYoutube\obj\Debug\netcoreapp2.2\ApiYoutube.pdb
