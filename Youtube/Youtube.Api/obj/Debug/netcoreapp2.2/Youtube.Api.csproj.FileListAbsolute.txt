@@ -1,0 +1,11 @@
+C:\ProjetoMarquesSoftware\HiringDev\Youtube\Youtube.Api\bin\Debug\netcoreapp2.2\Youtube.Api.deps.json
+C:\ProjetoMarquesSoftware\HiringDev\Youtube\Youtube.Api\bin\Debug\netcoreapp2.2\Youtube.Api.runtimeconfig.json
+C:\ProjetoMarquesSoftware\HiringDev\Youtube\Youtube.Api\bin\Debug\netcoreapp2.2\Youtube.Api.runtimeconfig.dev.json
+C:\ProjetoMarquesSoftware\HiringDev\Youtube\Youtube.Api\bin\Debug\netcoreapp2.2\Youtube.Api.dll
+C:\ProjetoMarquesSoftware\HiringDev\Youtube\Youtube.Api\obj\Debug\netcoreapp2.2\Youtube.Api.csprojAssemblyReference.cache
+C:\ProjetoMarquesSoftware\HiringDev\Youtube\Youtube.Api\obj\Debug\netcoreapp2.2\Youtube.Api.csproj.CoreCompileInputs.cache
+C:\ProjetoMarquesSoftware\HiringDev\Youtube\Youtube.Api\obj\Debug\netcoreapp2.2\Youtube.Api.RazorAssemblyInfo.cache
+C:\ProjetoMarquesSoftware\HiringDev\Youtube\Youtube.Api\obj\Debug\netcoreapp2.2\Youtube.Api.RazorAssemblyInfo.cs
+C:\ProjetoMarquesSoftware\HiringDev\Youtube\Youtube.Api\obj\Debug\netcoreapp2.2\Youtube.Api.AssemblyInfoInputs.cache
+C:\ProjetoMarquesSoftware\HiringDev\Youtube\Youtube.Api\obj\Debug\netcoreapp2.2\Youtube.Api.AssemblyInfo.cs
+C:\ProjetoMarquesSoftware\HiringDev\Youtube\Youtube.Api\obj\Debug\netcoreapp2.2\Youtube.Api.RazorTargetAssemblyInfo.cache
